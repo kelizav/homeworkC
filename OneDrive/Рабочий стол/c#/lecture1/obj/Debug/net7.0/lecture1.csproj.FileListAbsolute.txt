@@ -1,0 +1,14 @@
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\bin\Debug\net7.0\lecture1.exe
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\bin\Debug\net7.0\lecture1.deps.json
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\bin\Debug\net7.0\lecture1.runtimeconfig.json
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\bin\Debug\net7.0\lecture1.dll
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\bin\Debug\net7.0\lecture1.pdb
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\obj\Debug\net7.0\lecture1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\obj\Debug\net7.0\lecture1.AssemblyInfoInputs.cache
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\obj\Debug\net7.0\lecture1.AssemblyInfo.cs
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\obj\Debug\net7.0\lecture1.csproj.CoreCompileInputs.cache
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\obj\Debug\net7.0\lecture1.dll
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\obj\Debug\net7.0\refint\lecture1.dll
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\obj\Debug\net7.0\lecture1.pdb
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\obj\Debug\net7.0\lecture1.genruntimeconfig.cache
+C:\Users\lizak\OneDrive\Рабочий стол\c#\lecture1\obj\Debug\net7.0\ref\lecture1.dll
